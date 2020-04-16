@@ -19,5 +19,6 @@
     </qresource>
     <qresource prefix="/images">
         <file>images/brand-logo.png</file>
+        <file>images/CI_1.png</file>
     </qresource>
 </RCC>

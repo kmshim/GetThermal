@@ -6,7 +6,7 @@ ApplicationWindow {
     visible: true
     width: 960
     height: 540
-    title: qsTr("GetThermal")
+    title: qsTr("Thermal Viewer")
 
     Viewer {
         anchors.fill: parent

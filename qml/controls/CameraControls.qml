@@ -26,7 +26,7 @@ Pane {
         anchors.right: parent.right
         height: 50
         fillMode: Image.PreserveAspectFit
-        source: "/images/images/brand-logo.png"
+        source: "/images/images/CI_1.png"
     }
 
     Component {
